@@ -164,3 +164,5 @@ ui/react-ui/backend/node_modules/
 
 server/*data.db*
 server/*.pickle
+ui/scala/conf/application.conf
+server/.env.template
